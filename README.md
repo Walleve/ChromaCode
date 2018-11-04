@@ -11,7 +11,7 @@ Our prototype and experiments demonstrate that ChromaCode achieves remarkable ra
 
 ## Paper
 
-[ChromaCode: A Fully Imperceptible Screen-Camera Communication System](https://)
+[ChromaCode: A Fully Imperceptible Screen-Camera Communication System](https://doi.org/10.1145/3241539.3241543)
 
 Kai Zhang, Chenshu Wu, Chaofan Yang, Yi Zhang, 
 Kehong Huang, Chunyi Peng, Yunhao Liu, Zheng Yang
