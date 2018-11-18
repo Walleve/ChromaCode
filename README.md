@@ -18,7 +18,7 @@ Kehong Huang, Chunyi Peng, Yunhao Liu, Zheng Yang
 
 [ACM International Conference on Mobile Computing and Networking (MobiCom), 2018](http://www.sigmobile.org/mobicom/2018)
 
-[[PDF]](com022-zhangA.pdf) [[Video]](https://youtu.be/WmkyRoM4Ja4)
+[[PDF]](com022-zhangA.pdf) [[Video]](https://youtu.be/WmkyRoM4Ja4) [[PPT]](ChromaCode_PPT.pptx)
 
 ## Materials
 
