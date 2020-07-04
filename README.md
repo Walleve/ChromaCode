@@ -13,12 +13,16 @@ Our prototype and experiments demonstrate that ChromaCode achieves remarkable ra
 
 [ChromaCode: A Fully Imperceptible Screen-Camera Communication System](https://doi.org/10.1145/3241539.3241543)
 
-Kai Zhang*, Chenshu Wu*, Chaofan Yang, Yi Zhao, 
-Kehong Huang, Chunyi Peng, Yunhao Liu, Zheng Yang  (*: co-primary authors)
+Kai Zhang\*, Chenshu Wu\*, Chaofan Yang, Yi Zhao, 
+Kehong Huang, Chunyi Peng, Yunhao Liu, Zheng Yang  (\*: co-primary authors)
 
 [ACM International Conference on Mobile Computing and Networking (MobiCom), 2018](http://www.sigmobile.org/mobicom/2018)
 
 [[PDF]](com022-zhangA.pdf) [[Video]](https://youtu.be/WmkyRoM4Ja4) [[PPT]](ChromaCode_PPT.pptx)
+
+## Video
+
+{% include youtube.html id="WmkyRoM4Ja4" %}
 
 ## Materials
 
